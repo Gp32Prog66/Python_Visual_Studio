@@ -2,8 +2,8 @@
 
 BeautifulSoup Library
 
-'''python -m pip install beautifulsoup4
-'''pip install requests
+>python -m pip install beautifulsoup4
+>pip install requests
 
 ## Run Program
 py WebScraping.py
